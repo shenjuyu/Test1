@@ -1,8 +1,11 @@
 package com.yc.test;
 
 public class Test1 {
-	private void syso() {
-		System.out.println("11321321312321");
+
+
+	public static void main(String[] args) {
+		System.out.println("1111111");
+		System.out.println("asdfadfasfadf");
 
 	}
 }
